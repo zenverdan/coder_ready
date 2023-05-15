@@ -1,10 +1,10 @@
 # Coders Ready Workshop
 ###### This repository contains code and materials for the Coders Ready Workshop, a three-day workshop designed to introduce participants to the basics of Python programming, object-oriented programming, and data analysis.
 -------
-   By- Dr. Aryan Jaswal
+      By- Dr. Aryan Jaswal
                     
 ------
-   Email : aryanjaswaliit+coders_ready@gmail.com 
+      Email : aryanjaswaliit+coders_ready@gmail.com 
 
 
 ## Day 1 - Basic Python
